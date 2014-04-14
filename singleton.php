@@ -6,7 +6,9 @@
  * Пример реализации паттерна Singleton
  * для доступа к настройкам приложения
  *
- * @author Yuriy Belyakov
+ * Чтобы проще запомнить:
+ *  - __construct, __clone, __wakeup
+ *  + getInstance
  */
 class Singleton
 {
