@@ -6,3 +6,4 @@ PhpPatterns
  - Strategy
  - Gateway
  - Adapter
+ - Decorator
