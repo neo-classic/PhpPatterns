@@ -1,0 +1,15 @@
+{
+    "name": "neo-classic/php-patterns",
+    "description": "PHP Design Patterns",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yuriy Belyakov",
+            "email": "belyakov.u@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpunit/phpunit": "6.5.*"
+    }
+}
